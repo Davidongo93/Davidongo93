@@ -16,3 +16,4 @@ I'm a passionate Full Stack Developer and networking technician based in Bogotá
 - ⚡ Fun fact: I'm an avid mountain sports enthusiast and a proud member of the Scouts since 2007.
 
 Let's connect, collaborate, and create amazing things together! 🚀
+🚀⛰️🏃‍♂️🏊‍♂️💻🌟
