@@ -19,12 +19,6 @@
       ⚡ Fun facts: I'm an avid mountain sports enthusiast and a proud member of the Scouts since 2007.
    </p>
   </div>
-  
-  <div style="flex: 1; padding-left: 20px;">
-   <script src="https://static.elfsight.com/platform/platform.js" data-use-service-core defer></script>
-<div class="elfsight-app-1a24e72e-88c2-428e-ad26-96940b6c8a50"></div>
-  </div>
-</div>
 
 <h3>Check Out My Projects</h3>
 
@@ -47,5 +41,8 @@
   <a href="https://linkedin.com/in/david-orlando-miranda-roa-7239b0264/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Dave" height="30" width="40" /></a>
   <a href="https://instagram.com/davegoes2rock" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="your-instagram-handle" height="30" width="40" /></a>
   <a href="https://wa.me/573015740156" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="your-whatsapp-number" height="30" width="40" /></a>
+</p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Davidongo93&label=Profile%20views&color=f953ab&style=flat" alt="Davidongo93" />
 </p>
 
