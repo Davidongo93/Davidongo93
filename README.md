@@ -1,29 +1,28 @@
 <div style="display: flex; justify-content: space-between; align-items: flex-start;">
   <div style="flex: 1; padding-right: 20px;">
     <h1>Hi there, I'm David 👋</h1>
-    
-    <p>
+<p>
       I'm a passionate Full Stack Developer and networking technician based in Bogotá, Colombia. With over 13 years of experience in the IT industry, I'm constantly expanding my knowledge and honing my skills in various technologies. I enjoy tackling challenging projects and collaborating with experienced developers to create innovative solutions.
-    </p>
-    
-    <ul>
+ </p>
+   <ul>
       <li>🔭 I’m currently working on exciting web applications using React and Node.js.</li>
       <li>🌱 I’m continuously learning and exploring new technologies in the ever-evolving tech landscape.</li>
       <li>👯 I’m looking to collaborate on interesting open source projects and contribute to the developer community.</li>
       <li>💬 Ask me about anything related to web development, JavaScript, or networking. I'm always happy to share my knowledge and help others.</li>
     </ul>
     
-    <p>
+   <p>
       📫 How to reach me: You can connect with me on <a href="https://linkedin.com/in/davidongo93">LinkedIn</a>.
-    </p>
+   </p>
     
-    <p>
-      ⚡ Fun fact: I'm an avid mountain sports enthusiast and a proud member of the Scouts since 2007.
-    </p>
+  <p>
+      ⚡ Fun facts: I'm an avid mountain sports enthusiast and a proud member of the Scouts since 2007.
+   </p>
   </div>
   
   <div style="flex: 1; padding-left: 20px;">
-    <!-- Insert Instagram view here -->
+   <script src="https://static.elfsight.com/platform/platform.js" data-use-service-core defer></script>
+<div class="elfsight-app-1a24e72e-88c2-428e-ad26-96940b6c8a50"></div>
   </div>
 </div>
 
