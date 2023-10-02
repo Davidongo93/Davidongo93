@@ -21,7 +21,7 @@
 
 <p>
   <a href="https://food-frontend-six.vercel.app/" target="_blank"><strong>Food Recipes</strong></a><br />
-  Explore thousands of recipes in this Single Page Application (SPA) built with [insert technologies used].
+  Explore thousands of recipes in this Single Page Application (SPA) built with React Redux and RestAPI based on nodeJS.
 </p>
 
 <p>
