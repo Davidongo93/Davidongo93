@@ -32,6 +32,12 @@
  A well structured backend ready to use in local environment to develop a full stack project that involve video management.
 </p>
 
+<h4>FullStack Projects</h4>
+<p>
+  <a href="https://github.com/Davidongo93/git-pulse" target="_blank"><strong>Web app that shows graphics comparing activity in any github repository</strong></a><br />
+ A monorepository builded in Nx that includes a backend with Express typescript and the frontend in NextJs/ Tailwind. (beta version)
+</p>
+
 
 <p>
   <a href="https://twitter.com/domirandar" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="domirandar" height="30" width="40" /></a>
