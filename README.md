@@ -1,6 +1,6 @@
 <div style="display: flex; justify-content: space-between; align-items: flex-start;">
   <div style="flex: 1; padding-right: 20px;">
-    <h1>Hi there, I'm Dave 👋</h1>
+    <h1>Hi there</h1>
 <p>
       I'm a passionate Full Stack Developer and networking technician based in Bogotá, Colombia. With over 14 years of experience in the IT industry.
  </p>
