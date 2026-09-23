@@ -129,8 +129,8 @@ I write in Spanish at [daev.space/blog](https://daev.space/blog): notes on build
 <!-- BLOG-POST-LIST:START -->
 - [Chucula de los 7 granos: la receta ancestral que queremos revivir](https://daev.space/blog/chucula-de-los-7-granos)
 - [Proksanty: un viaje al origen del cacao en Nilo, Cundinamarca](https://daev.space/blog/proksanty-un-viaje-al-origen-del-cacao)
-- [El mundo se llenó de agentes Smith](https://daev.space/blog/el-mundo-se-lleno-de-agentes-smith)
-- [Recalculando rumbo](https://daev.space/blog/breve-historia-del-programador)
+- [Casa campestre en Anapoima: recorrido visual por una arquitectura de dobles alturas](https://daev.space/blog/casa-bonita-recorrido-visual)
+- [Chilcuague: la Raíz de Oro de México, su historia y sus propiedades](https://daev.space/blog/chilcuague-raiz-de-oro-historia-y-propiedades)
 <!-- BLOG-POST-LIST:END -->
 
 ---
